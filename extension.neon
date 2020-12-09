@@ -1,0 +1,4 @@
+services:
+  - class: JDecool\EnumPHPStan\EnumMethodsClassReflectionExtension
+    tags:
+      - phpstan.broker.methodsClassReflectionExtension
