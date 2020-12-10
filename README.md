@@ -1,6 +1,10 @@
 PHPStan extension for `jdecool/enum`
 ====================================
 
+[![Build Status](https://github.com/jdecool/enum-phpstan/workflows/CI/badge.svg)](https://github.com/jdecool/enum-phpstan/actions?query=workflow%3ACI)
+[![Latest Stable Version](https://poser.pugx.org/jdecool/enum-phpstan/v/stable.png)](https://packagist.org/packages/jdecool/enum-phpstan)
+
+
 This extension defines dynamic methods for `JDecool\Enum\Enum` subclasses.
 
 ## Usage
